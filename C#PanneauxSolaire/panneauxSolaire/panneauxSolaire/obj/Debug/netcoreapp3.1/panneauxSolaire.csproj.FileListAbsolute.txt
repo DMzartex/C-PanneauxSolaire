@@ -1,0 +1,14 @@
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#PanneauxSolaire\panneauxSolaire\panneauxSolaire\obj\Debug\netcoreapp3.1\panneauxSolaire.csproj.AssemblyReference.cache
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#PanneauxSolaire\panneauxSolaire\panneauxSolaire\obj\Debug\netcoreapp3.1\panneauxSolaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#PanneauxSolaire\panneauxSolaire\panneauxSolaire\obj\Debug\netcoreapp3.1\panneauxSolaire.AssemblyInfoInputs.cache
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#PanneauxSolaire\panneauxSolaire\panneauxSolaire\obj\Debug\netcoreapp3.1\panneauxSolaire.AssemblyInfo.cs
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#PanneauxSolaire\panneauxSolaire\panneauxSolaire\obj\Debug\netcoreapp3.1\panneauxSolaire.csproj.CoreCompileInputs.cache
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#PanneauxSolaire\panneauxSolaire\panneauxSolaire\bin\Debug\netcoreapp3.1\panneauxSolaire.exe
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#PanneauxSolaire\panneauxSolaire\panneauxSolaire\bin\Debug\netcoreapp3.1\panneauxSolaire.deps.json
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#PanneauxSolaire\panneauxSolaire\panneauxSolaire\bin\Debug\netcoreapp3.1\panneauxSolaire.runtimeconfig.json
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#PanneauxSolaire\panneauxSolaire\panneauxSolaire\bin\Debug\netcoreapp3.1\panneauxSolaire.runtimeconfig.dev.json
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#PanneauxSolaire\panneauxSolaire\panneauxSolaire\bin\Debug\netcoreapp3.1\panneauxSolaire.dll
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#PanneauxSolaire\panneauxSolaire\panneauxSolaire\bin\Debug\netcoreapp3.1\panneauxSolaire.pdb
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#PanneauxSolaire\panneauxSolaire\panneauxSolaire\obj\Debug\netcoreapp3.1\panneauxSolaire.dll
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#PanneauxSolaire\panneauxSolaire\panneauxSolaire\obj\Debug\netcoreapp3.1\panneauxSolaire.pdb
+C:\Users\Doria\OneDrive\Bureau\Programmation5TTI\C#PanneauxSolaire\panneauxSolaire\panneauxSolaire\obj\Debug\netcoreapp3.1\panneauxSolaire.genruntimeconfig.cache
