@@ -11,9 +11,10 @@ namespace panneauxSolaire
      static void panneauxSolaireCalc(double largM, double longM, double hc, double hp, out double nbPanneaux, out double prixTotal)
         {
             double versantToit, npL, npH;
-            double lPan = 0.7;
-            double hPan = 1.5;
-            double prixPan = 489;
+         
+            const double lPan = 0.7;
+            const double hPan = 1.5;
+            const double prixPan = 489;
 
 
             versantToit = Math.Pow(Math.Pow((hp - hc), 2) + Math.Pow((largM / 2), 2), 0.5);
@@ -45,6 +46,7 @@ namespace panneauxSolaire
             Console.WriteLine($"le prix totale est de :{Math.Ceiling(prixTotal)}");
 
             Console.ReadLine();
+            
 
 
         }
